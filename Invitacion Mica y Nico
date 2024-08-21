@@ -1,0 +1,365 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+
+  <!-- Head -->
+  <!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="invitaciones digitales para eventos">
+<meta name="keywords" content="invitaciones, digitales, tarjetas, boda, invitación, interactivas, casamiento, save the date, agenda la fecha, ideas invitación, tarjetas de 15, tarjetas eventos, wedding, matrimonio, ideas tarjetas, rsvp, modelos de invitacion, página de boda, página web de casamiento">
+
+
+<!-- Listado de css con version dinamica segun modificacion de archivo -->
+<link rel='stylesheet' href='https://agendalafecha.com/demolepou/assets/css/bootstrap.min.css?v='/><link rel='stylesheet' href='https://agendalafecha.com/demolepou/assets/css/jquery.classycountdown.css?v='/><link rel='stylesheet' href='https://agendalafecha.com/demolepou/assets/css/jquery.fancybox.min.css?v='/><link rel='stylesheet' href='https://agendalafecha.com/demolepou/assets/css/styles.css?v='/>
+<!-- Font -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;900&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital@0;1&display=swap" rel="stylesheet">
+
+
+<!-- Font Awesome -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+
+<!-- Title -->
+<title>
+  Muestra invitación :: Le Pou</title>
+
+</head>
+
+
+
+<body>
+
+
+  <!-- Portada -->
+  <!-- Portada -->
+<section class="portada parallax-portada d-flex justify-content-center align-items-center">
+
+  <!-- Logo central -->
+  <div class="logo-portada fade-in">
+    <img class="" src="https://agendalafecha.com/demolepou/assets/img/logo-portada.png" alt="">
+    <div class="scroll-down"></div>
+  </div>
+
+</section>
+  <!-- Frase -->
+  <section class="frase">
+
+  <div class="container">
+
+    <img src="https://agendalafecha.com/demolepou/assets/img/icono-frase.svg" alt="" class="icon">
+    <h4>¡BIENVENIDOS!</h4>
+
+    <p>Gracias a todos por compartir éste día tan especial con nosotros.</p>
+    </br>
+    <p>Felicitas & Agustín</p>
+
+  </div>
+
+  </div>
+
+</section>
+
+  <!-- Cuenta Regresiva -->
+  <section class="cuenta-regresiva">
+
+  <div class="container">
+
+
+    <!-- Contenedor de cuenta regresiva -->
+    <div class="reloj">
+      <div class="countdown"></div>
+    </div>
+
+
+
+
+</section>
+
+  <!-- Ceremonia y Fiesta -->
+  <section class="ceremonia-fiesta">
+  <div class="container">
+    <div class="row">
+
+
+      
+
+        <!-- Ceremonia -->
+        <div class="col-md-6 columna">
+          <img src="https://agendalafecha.com/demolepou/assets/img/icono-ceremonia.svg" alt="" class="icon">
+          <h4>Ceremonia</h4>
+          <p>
+            11 de Junio a las 18:00 horas en la Iglesia de los Capuchinos. </br>Buenos Aires 600-699, Córdoba.</br>Recibí debajo las indicaciones para llegar.          </p>
+          <a target="_blank" href="https://goo.gl/maps/hYPgYrEBXsXzGxet7" class="btn">LLEGAR A LA CEREMONIA</a>
+        </div>
+
+        <!-- Fiesta -->
+        <div class="col-md-6 columna">
+          <img src="https://agendalafecha.com/demolepou/assets/img/icono-fiesta.svg" alt="" class="icon">
+          <h4>Fiesta</h4>
+          <p>
+            Después de la ceremonia festejaremos en el Salón Santa Bárbara. </br>Av. Cdad. de Valparaíso 6000, Córdoba.</br>¡Te esperamos!          </p>
+          <a target="_blank" href="https://goo.gl/maps/4ojHp6jRCPmQxhmB9" class="btn">LLEGAR A LA FIESTA</a>
+        </div>
+
+
+      
+
+      
+    </div>
+  </div>
+</section>
+
+  <!-- Galeria -->
+  <section class="galeria">
+  <div class="container">
+
+    <div class="row">
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        <!-- Impmrimo el bloque con la imagen -->
+        <div class="col-6 col-md-3 item-galeria">
+          <a href="https://agendalafecha.com/demolepou/assets/img/galeria/1.jpg" data-fancybox="images" data-caption="">
+            <img class="img-fluid" src="https://agendalafecha.com/demolepou/assets/img/galeria/1.jpg" alt="">
+          </a>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+        <div class="col-6 col-md-3 item-galeria">
+          <a href="https://agendalafecha.com/demolepou/assets/img/galeria/2.jpg" data-fancybox="images" data-caption="">
+            <img class="img-fluid" src="https://agendalafecha.com/demolepou/assets/img/galeria/2.jpg" alt="">
+          </a>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+        <div class="col-6 col-md-3 item-galeria">
+          <a href="https://agendalafecha.com/demolepou/assets/img/galeria/3.jpg" data-fancybox="images" data-caption="">
+            <img class="img-fluid" src="https://agendalafecha.com/demolepou/assets/img/galeria/3.jpg" alt="">
+          </a>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+        <div class="col-6 col-md-3 item-galeria">
+          <a href="https://agendalafecha.com/demolepou/assets/img/galeria/4.jpg" data-fancybox="images" data-caption="">
+            <img class="img-fluid" src="https://agendalafecha.com/demolepou/assets/img/galeria/4.jpg" alt="">
+          </a>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+        <div class="col-6 col-md-3 item-galeria">
+          <a href="https://agendalafecha.com/demolepou/assets/img/galeria/5.jpg" data-fancybox="images" data-caption="">
+            <img class="img-fluid" src="https://agendalafecha.com/demolepou/assets/img/galeria/5.jpg" alt="">
+          </a>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+        <div class="col-6 col-md-3 item-galeria">
+          <a href="https://agendalafecha.com/demolepou/assets/img/galeria/6.jpg" data-fancybox="images" data-caption="">
+            <img class="img-fluid" src="https://agendalafecha.com/demolepou/assets/img/galeria/6.jpg" alt="">
+          </a>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+        <div class="col-6 col-md-3 item-galeria">
+          <a href="https://agendalafecha.com/demolepou/assets/img/galeria/7.jpg" data-fancybox="images" data-caption="">
+            <img class="img-fluid" src="https://agendalafecha.com/demolepou/assets/img/galeria/7.jpg" alt="">
+          </a>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+        <div class="col-6 col-md-3 item-galeria">
+          <a href="https://agendalafecha.com/demolepou/assets/img/galeria/8.jpg" data-fancybox="images" data-caption="">
+            <img class="img-fluid" src="https://agendalafecha.com/demolepou/assets/img/galeria/8.jpg" alt="">
+          </a>
+        </div>
+
+      
+
+    </div>
+  </div>
+</section>
+
+  <!-- CBU -->
+  
+  <section class="cbu">
+
+    <div class="container">
+
+
+
+      <img src="https://agendalafecha.com/demolepou/assets/img/icono-regalo.svg" alt="" class="icon">
+      <p>El mejor regalo es tu presencia, pero si deseás obsequiarnos algo...</p>
+      <a data-fancybox data-src="#hidden-cbu" href="javascript:;" data-options='{"touch" : false}' class="btn btn-alt">Ver más</a>
+
+      <!-- Datos Cbu -->
+      <div style="display: none;" id="hidden-cbu">
+
+        
+
+<span class="title">Datos Bancarios</span>
+
+<ul>
+  <li>Nombre del Titular: Nombre Apellido</li>
+  <li>CBU: 12345623561</li>
+  <li>Alias: uno.dos.tres</li>
+  <li>DNI: 32200552</li>
+  <li>Banco Galicia</li>
+</ul>
+
+<span class="title">Lista de Regalos</span>
+
+<ul>
+  <li><a target="_blank" href="">Falabella Novios</a></li>
+</ul>
+
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+
+
+  <!-- Confirmar Asistencia -->
+  <section class="confirmar-asistencia">
+
+  <div class="container">
+    <h4>CONFIRMACIÓN DE ASISTENCIA</h4>
+    <p>Esperamos que seas parte de este gran día para nosotros.</p>
+    <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe9YQMx7pJ7roFnvzgB353ytHGRUEOI_339DoK6--8r9jtZwg/viewform?usp=sf_link" class="btn">CONFIRMAR ASISTENCIA</a>
+        
+  </div>
+  
+</section>
+  <!-- Dress Code -->
+  
+
+<section class="dresscode">
+
+  <div class="container">
+
+    <h4>DRESS CODE</h4>
+    <p>Formal, elegante</p>
+
+  
+
+    </div>
+
+  </div>
+
+</section>
+
+  <!-- Instagram -->
+  <section class="parallax-instagram instagram d-flex justify-content-center align-items-center">
+
+
+  <div class="contenido">
+
+    <img src="https://agendalafecha.com/demolepou/assets/img/icono-instagram.svg" alt="" class="icon">
+
+    <br>
+
+    <span class="hashtag">#FelicitasyAgustin</span>
+    <p>
+      ¡Preparate para nuestro gran día! <br>
+      Etiquetanos en Instagram con nuestro hashtag en tus fotos, reels o videos.
+    </p>
+
+    <a target="_blank" href="https://www.instagram.com/explore/tags/invitacionesdigitales/" class="btn">Ver Hashtag</a>
+
+  </div>
+
+
+</section>
+
+  <!-- Canciones -->
+  <section class="canciones">
+  
+  <div class="container">
+
+    <h4>¿QUÉ CANCIONES NO PUEDEN FALTAR?</h4>
+
+    <p>¡Ayudanos sugiriendo las canciones que pensás que no pueden faltar en la fiesta!</p>
+    <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdx-rgnkGiTmXEdbE9mjW8X-RYHMivJfTrEOiS1js17lv6jQQ/viewform" class="btn">Sugerir canción</a>
+
+  </div>
+
+</section>
+
+  <!-- Gracias -->
+  <section class="gracias">
+
+  <div class="container">
+
+    <p>¡Gracias por acompañarnos en este momento tan importante!</p>
+
+  </div>
+
+</section>
+
+
+  <!-- Footer -->
+  
+
+
+<section class="footer">
+
+  <div class="containter">
+    <p>Le Pou Invitaciones</a> 2024. Todos los derechos reservados</p>
+  </div>
+
+</section>
+
+
+
+
+  <!-- Varaibles para JS desde config -->
+  <script>
+    // Cuenta regresiva
+    var fechaCuentaRegresiva = "06/11/2023 18:00:00";
+    var colorCirculosCuentaRegresiva = "#565656";
+    var colorTextoCuentaRegresiva = "#565656";
+  </script>
+
+
+
+  <!-- Scripts Generales-->
+  <!-- Path para js -->
+<script>
+  const pathInv = 'https://agendalafecha.com/demolepou/'
+</script>
+
+<!-- Listado de js con version dinamica segun modificacion de archivo -->
+<script type='text/javascript' src='https://agendalafecha.com/demolepou/assets/js/jquery-3.5.1.slim.min.js?v='></script><script type='text/javascript' src='https://agendalafecha.com/demolepou/assets/js/jquery.knob.js?v='></script><script type='text/javascript' src='https://agendalafecha.com/demolepou/assets/js/jquery.throttle.js?v='></script><script type='text/javascript' src='https://agendalafecha.com/demolepou/assets/js/jquery.classycountdown.js?v='></script><script type='text/javascript' src='https://agendalafecha.com/demolepou/assets/js/popper.min.js?v='></script><script type='text/javascript' src='https://agendalafecha.com/demolepou/assets/js/bootstrap.min.js?v='></script><script type='text/javascript' src='https://agendalafecha.com/demolepou/assets/js/parallax.min.js?v='></script><script type='text/javascript' src='https://agendalafecha.com/demolepou/assets/js/jquery.fancybox.min.js?v='></script><script type='text/javascript' src='https://agendalafecha.com/demolepou/assets/js/scripts.js?v='></script>
+
+
+
+</body>
